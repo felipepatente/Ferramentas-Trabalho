@@ -1,0 +1,10 @@
+C:\Users\Felipe\source\repos\Epplus\Epplus\bin\Debug\Epplus.exe.config
+C:\Users\Felipe\source\repos\Epplus\Epplus\bin\Debug\Epplus.exe
+C:\Users\Felipe\source\repos\Epplus\Epplus\bin\Debug\Epplus.pdb
+C:\Users\Felipe\source\repos\Epplus\Epplus\bin\Debug\EPPlus.dll
+C:\Users\Felipe\source\repos\Epplus\Epplus\bin\Debug\EPPlus.xml
+C:\Users\Felipe\source\repos\Epplus\Epplus\obj\Debug\Epplus.csprojAssemblyReference.cache
+C:\Users\Felipe\source\repos\Epplus\Epplus\obj\Debug\Epplus.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\Epplus\Epplus\obj\Debug\Epplus.csproj.CopyComplete
+C:\Users\Felipe\source\repos\Epplus\Epplus\obj\Debug\Epplus.exe
+C:\Users\Felipe\source\repos\Epplus\Epplus\obj\Debug\Epplus.pdb
