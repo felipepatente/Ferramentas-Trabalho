@@ -1,0 +1,7 @@
+C:\Users\Felipe\source\repos\LeiuraEscritaArquivo\LeiuraEscritaArquivo\bin\Debug\LeiuraEscritaArquivo.exe.config
+C:\Users\Felipe\source\repos\LeiuraEscritaArquivo\LeiuraEscritaArquivo\bin\Debug\LeiuraEscritaArquivo.exe
+C:\Users\Felipe\source\repos\LeiuraEscritaArquivo\LeiuraEscritaArquivo\bin\Debug\LeiuraEscritaArquivo.pdb
+C:\Users\Felipe\source\repos\LeiuraEscritaArquivo\LeiuraEscritaArquivo\obj\Debug\LeiuraEscritaArquivo.csprojAssemblyReference.cache
+C:\Users\Felipe\source\repos\LeiuraEscritaArquivo\LeiuraEscritaArquivo\obj\Debug\LeiuraEscritaArquivo.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\LeiuraEscritaArquivo\LeiuraEscritaArquivo\obj\Debug\LeiuraEscritaArquivo.exe
+C:\Users\Felipe\source\repos\LeiuraEscritaArquivo\LeiuraEscritaArquivo\obj\Debug\LeiuraEscritaArquivo.pdb
