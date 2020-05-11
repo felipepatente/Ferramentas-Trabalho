@@ -1,0 +1,7 @@
+C:\Users\Felipe\source\repos\ProjetoAccess\ProjetoAccess\bin\Debug\ProjetoAccess.exe.config
+C:\Users\Felipe\source\repos\ProjetoAccess\ProjetoAccess\bin\Debug\ProjetoAccess.exe
+C:\Users\Felipe\source\repos\ProjetoAccess\ProjetoAccess\bin\Debug\ProjetoAccess.pdb
+C:\Users\Felipe\source\repos\ProjetoAccess\ProjetoAccess\obj\Debug\ProjetoAccess.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\ProjetoAccess\ProjetoAccess\obj\Debug\ProjetoAccess.exe
+C:\Users\Felipe\source\repos\ProjetoAccess\ProjetoAccess\obj\Debug\ProjetoAccess.pdb
+C:\Users\Felipe\source\repos\ProjetoAccess\ProjetoAccess\obj\Debug\ProjetoAccess.csprojAssemblyReference.cache
