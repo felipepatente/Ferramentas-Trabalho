@@ -35,6 +35,18 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Moq, Version=4.2.1510.2205, Culture=neutral, PublicKeyToken=69f491c39445e920, processorArchitecture=MSIL">
+      <HintPath>..\packages\Moq.4.2.1510.2205\lib\net40\Moq.dll</HintPath>
+    </Reference>
+    <Reference Include="RazorHosting, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SimpleBrowser.0.5.61.0\lib\net40\RazorHosting.dll</HintPath>
+    </Reference>
+    <Reference Include="SimpleBrowser, Version=0.5.61.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SimpleBrowser.0.5.61.0\lib\net40\SimpleBrowser.dll</HintPath>
+    </Reference>
+    <Reference Include="SimpleBrowser.WebDriver, Version=0.5.43.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SimpleBrowser.WebDriver.0.5.43\lib\net40\SimpleBrowser.WebDriver.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Drawing" />
@@ -47,11 +59,16 @@
     <Reference Include="WebDriver, Version=3.141.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Selenium.WebDriver.3.141.0\lib\net45\WebDriver.dll</HintPath>
     </Reference>
+    <Reference Include="WebDriver.Support, Version=3.14.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Selenium.Support.3.14.0\lib\net45\WebDriver.Support.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AcessoInstagram.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SiteAlura.cs" />
+    <Compile Include="CadastroYahooEmail.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

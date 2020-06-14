@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            new SiteAlura().Processar();
+            new AcessoInstagram().Processar();
         }
     }
 }
