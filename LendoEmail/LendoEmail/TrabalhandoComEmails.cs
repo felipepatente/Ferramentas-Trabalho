@@ -2,16 +2,45 @@
 using System;
 using System.IO;
 using System.Linq;
+using System.Threading;
 
 namespace LendoEmail
 {
     public class TrabalhandoComEmails
     {
-        public void Processar()
+        private ExchangeService service = new ExchangeService(ExchangeVersion.Exchange2013_SP1);
+        private string emailOrigem = "felipepatente2020@outlook.com";
+
+        public TrabalhandoComEmails()
+        {            
+            service.Credentials = new WebCredentials(emailOrigem, "46692201!@ASDFasdf");
+            service.AutodiscoverUrl(emailOrigem);
+        }
+
+        public void EnviarEmail()
         {
-            ExchangeService service = new ExchangeService(ExchangeVersion.Exchange2013_SP1);
-            service.Credentials = new WebCredentials("felipepatente2020@outlook.com","46692201!@ASDFasdf");
-            service.AutodiscoverUrl("felipepatente2020@outlook.com");
+            try
+            {
+                EmailMessage message = new EmailMessage(service);
+                message.From = emailOrigem;
+                message.Subject = "Teste";
+                message.Body = "<b>Corpo do e-mail<b/>";
+                message.Body.BodyType = BodyType.HTML;
+                message.ToRecipients.Add("felipepatente2016@gmail.com");
+                Thread.Sleep(5000);
+                message.Send();
+                Console.WriteLine("Enviado com sucesso");
+            }
+            catch (Exception ex)
+            {
+
+                throw;
+            }
+        }
+
+        public void FazendoLeituraEmail()
+        {
+            
 
             if (service != null)
             {
@@ -27,9 +56,8 @@ namespace LendoEmail
                         string body = message.Body.Text;                        
                         //string from = message.From.Id.ToString();
                         string subject = message.Subject.ToString();
+                        Console.WriteLine(subject);
                     }
-
-                    message.IsRead = true;
 
                     //MoverEmailInbox(service, message);
                 }                

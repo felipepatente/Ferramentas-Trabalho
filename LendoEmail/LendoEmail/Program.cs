@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            new TrabalhandoComEmails().Processar();
+            new TrabalhandoComEmails().EnviarEmail();
         }
     }
 }
