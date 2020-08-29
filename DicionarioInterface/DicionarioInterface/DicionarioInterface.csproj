@@ -49,8 +49,7 @@
     <Compile Include="Calculos\ICalculoConta.cs" />
     <Compile Include="IProcesso.cs" />
     <Compile Include="Calculos\Multiplicacao.cs" />
-    <Compile Include="ListaDeCalculos.cs" />
-    <Compile Include="ContaMatematica.cs" />
+    <Compile Include="ContasMatematica.cs" />
     <Compile Include="ProcessoCalculo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -2,7 +2,7 @@
 
 namespace DicionarioInterface
 {
-    public class ListaDeCalculos
+    public class ContasMatematica
     {
         public IList<ICalculoConta> GetCalculos()
         {

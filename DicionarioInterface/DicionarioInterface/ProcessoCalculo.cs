@@ -8,7 +8,7 @@ namespace DicionarioInterface
     {
         public void Processar()
         {
-            IList<ICalculoConta> calculos = new ListaDeCalculos().GetCalculos();
+            IList<ICalculoConta> calculos = new ContasMatematica().GetCalculos();
             MostrarCalculosList(calculos);
 
             IList<Calculo> calculoDic = new CalculosBase().GetCalculos();
@@ -30,9 +30,9 @@ namespace DicionarioInterface
 
         private void MostrarCalculosDic(IList<Calculo> calculos)
         {
-            ContaMatematica contaMatematica = new ContaMatematica();
+            ContasMatematica contaMatematica = new ContasMatematica();
 
-            IDictionary<string, ICalculoConta> contaMatematicaDic = contaMatematica.GetCalculos();
+            IDictionary<string, ICalculoConta> contaMatematicaDic = contaMatematica.GetCalculosDic();
 
             foreach (var calculo in calculos)
             {
