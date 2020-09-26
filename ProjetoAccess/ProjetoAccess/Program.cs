@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ProjetoAccess
 {
@@ -46,6 +43,8 @@ namespace ProjetoAccess
 
             new AcessoAccess().GravarAccessSMS(smss);
             new AcessoAccess().GravarAccessSMS(smss);
+
+            Console.WriteLine("Finalizou com sucesso");
         }
     }
 }

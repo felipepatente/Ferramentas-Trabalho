@@ -5,3 +5,10 @@ C:\Users\Felipe\source\repos\ProjetoAccess\ProjetoAccess\obj\Debug\ProjetoAccess
 C:\Users\Felipe\source\repos\ProjetoAccess\ProjetoAccess\obj\Debug\ProjetoAccess.exe
 C:\Users\Felipe\source\repos\ProjetoAccess\ProjetoAccess\obj\Debug\ProjetoAccess.pdb
 C:\Users\Felipe\source\repos\ProjetoAccess\ProjetoAccess\obj\Debug\ProjetoAccess.csprojAssemblyReference.cache
+C:\Users\felip\OneDrive\Documentos\GitHub\Ferramentas-Trabalho\ProjetoAccess\ProjetoAccess\bin\Debug\ProjetoAccess.exe.config
+C:\Users\felip\OneDrive\Documentos\GitHub\Ferramentas-Trabalho\ProjetoAccess\ProjetoAccess\bin\Debug\ProjetoAccess.exe
+C:\Users\felip\OneDrive\Documentos\GitHub\Ferramentas-Trabalho\ProjetoAccess\ProjetoAccess\bin\Debug\ProjetoAccess.pdb
+C:\Users\felip\OneDrive\Documentos\GitHub\Ferramentas-Trabalho\ProjetoAccess\ProjetoAccess\obj\Debug\ProjetoAccess.csprojAssemblyReference.cache
+C:\Users\felip\OneDrive\Documentos\GitHub\Ferramentas-Trabalho\ProjetoAccess\ProjetoAccess\obj\Debug\ProjetoAccess.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Documentos\GitHub\Ferramentas-Trabalho\ProjetoAccess\ProjetoAccess\obj\Debug\ProjetoAccess.exe
+C:\Users\felip\OneDrive\Documentos\GitHub\Ferramentas-Trabalho\ProjetoAccess\ProjetoAccess\obj\Debug\ProjetoAccess.pdb
